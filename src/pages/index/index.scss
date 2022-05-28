@@ -1,0 +1,9 @@
+@import './index.rn.scss';
+
+.index {
+  height: 100vh;
+}
+
+.index-scroll {
+  height: calc(100vh - 88px);
+}
